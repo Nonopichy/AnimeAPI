@@ -21,7 +21,7 @@
     <pre align="center"><h2>Instalação</h2><p>Você pode instalar pelo gerenciador de pacotes <a href="https://pypi.org/project/fireapi"><strong>PIP</strong></a> ou manualmente, na pagina do <a href="https://github.com/Alexsander4742/FireAPI/releases">Github</a>!</p></pre>
     <h3>MANUALMENTE:</h3>
     <p>
-    Baixando o repositório, instale os módulos: <code>["setuptools", "pypandoc"]</code>,
+    Baixando o repositório, instale o módulo: <code>setuptools</code>,
     execute em um <strong>terminal</strong>:
         <ul>
             <li>LINUX: <code>python3 setup.py install</code></li>
