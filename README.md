@@ -1,7 +1,7 @@
-<div>
-    <img align="center" src="https://static.zerochan.net/Tanya.Degurechaff.full.2957403.png" width="456" height="456"></img>
-    <h1 align="center"><strong>ANIME API</strong></h1>
-    <p align="center"><pre>Pesquise, filtre e obtenha informações sobre animes!</pre></p>
+<div align="center">
+    <img src="https://static.zerochan.net/Tanya.Degurechaff.full.2957403.png" width="456" height="456"></img>
+    <h1><strong>ANIME API</strong></h1>
+    <p><pre>Pesquise, filtre e obtenha informações sobre animes!</pre></p>
     <hr>
 </div>
 
