@@ -6,7 +6,7 @@ setup(
     author="AimCaffe", # Criador/Autor
     author_email="alexsandergomes4742@gmail.com", # Email do Criador/Autor
     packages=find_packages(), # Pacotes
-    version="0.1", # Versão
+    version="1.1.1", # Versão
     license="gpl-3.0", # Licensa
     description="Pesquise, filtre e obtenha informações sobre animes!", # Descrição pequena
     long_description=open("README.md", "r", encoding="utf-8").read(), # Descrição longa
