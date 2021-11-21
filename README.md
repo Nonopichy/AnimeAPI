@@ -1,7 +1,7 @@
-<div>
-    <img align="center" src="https://static.zerochan.net/Tanya.Degurechaff.full.2957403.png" width="456" height="456"></img>
-    <h1 align="center"><strong>ANIME API</strong></h1>
-    <p align="center"><pre>Pesquise, filtre e obtenha informações sobre animes!</pre></p>
+<div align="center">
+    <img src="https://static.zerochan.net/Tanya.Degurechaff.full.2957403.png" width="456" height="456"></img>
+    <h1><strong>ANIME API</strong></h1>
+    <p><pre>Pesquise, filtre e obtenha informações sobre animes!</pre></p>
     <hr>
 </div>
 
@@ -21,7 +21,7 @@
     <pre align="center"><h2>Instalação</h2><p>Você pode instalar pelo gerenciador de pacotes <a href="https://pypi.org/project/fireapi"><strong>PIP</strong></a> ou manualmente, na pagina do <a href="https://github.com/Alexsander4742/FireAPI/releases">Github</a>!</p></pre>
     <h3>MANUALMENTE:</h3>
     <p>
-    Baixando o repositório, instale os módulos: <code>["setuptools", "pypandoc"]</code>,
+    Baixando o repositório, instale o módulo: <code>setuptools</code>,
     execute em um <strong>terminal</strong>:
         <ul>
             <li>LINUX: <code>python3 setup.py install</code></li>
