@@ -18,7 +18,7 @@
 </div>
 
 <div>
-    <pre align="center"><h2>Instalação</h2><p>Você pode instalar pelo gerenciador de pacotes <a href="https://pypi.org/project/fireapi"><strong>PIP</strong></a> ou manualmente, na pagina do <a href="https://github.com/Alexsander4742/FireAPI/releases">Github</a>!</p></pre>
+    <pre align="center"><h2>Instalação</h2><p>Você pode instalar pelo gerenciador de pacotes <a href="https://pypi.org/project/animeapi"><strong>PIP</strong></a> ou manualmente, na pagina do <a href="https://github.com/Alexsander4742/AnimeAPI/releases">Github</a>!</p></pre>
     <h3>MANUALMENTE:</h3>
     <p>
     Baixando o repositório, instale o módulo: <code>setuptools</code>,
