@@ -25,6 +25,5 @@ def Cards(url: str) -> list:
     return [{
         "SID": multiReplaces(i.a['href'], {"https://animefire.net/animes/": "", "-todos-os-episodios": ""}),
         "title": i.a.img["alt"],
-        "image": i.a["href"],
-        "link": i.a['href']
+        "image": i.a["href"]
     } for i in Soup(url).find_all("article", {"class": "card cardUltimosEps"})]
