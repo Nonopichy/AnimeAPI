@@ -36,7 +36,7 @@
     <ul>
         <li><h3>Tops: </h3><p><code>tops()</code></p></li>
         <li><h3>Search: </h3><p><code>search("One Piece", 1) -> ( Nome do Anime, Página <strong>OPCIONAL</strong> )</code></p></li>
-        <li><h3>Filter: </h3><p><code>filter("genre", "action", 1) -> ( <a href="https://github.com/Alexsander4742/FireAPI#metodo-filter">Categoria</a>, <a href="https://github.com/Alexsander4742/FireAPI#metodo-filter">Sub-categoria</a>, Página <strong>OPCIONAL</strong> )</code></p></li>
+        <li><h3>Filter: </h3><p><code>filter("genre", "action", 1) -> ( <a href="https://github.com/Alexsander4742/AnimeAPI#metodo-filter">Categoria</a>, <a href="https://github.com/Alexsander4742/AnimeAPI#metodo-filter">Sub-categoria</a>, Página <strong>OPCIONAL</strong> )</code></p></li>
         <li><h3>Anime: </h3><code>anime("one-piece") -> ( <strong>SID</strong> do Anime )</code></li>
     </ul>
     <hr>
