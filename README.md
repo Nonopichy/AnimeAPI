@@ -43,7 +43,7 @@
 </div>
 
 <div>
-    <pre align="center"><h2>Método: Filter</h2><p>Categorias & Sub-categorias válidas</p></pre>
+    <pre align="center"><h2 id="método-filter">Método: Filter</h2><p>Categorias & Sub-categorias válidas</p></pre>
     <ol>
         <li>
         animes
