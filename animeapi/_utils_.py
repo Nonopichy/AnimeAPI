@@ -23,7 +23,7 @@ def Soup(url: str) -> BeautifulSoup:
 # Pegar "Cards" do conteúdo
 def Cards(url: str) -> list:
     return [{
-        "SID": multiReplaces(i['src'], {"https://animefire.net/img/animes/": "", ".webp?v=1": ""}),
+        "SID": multiReplaces(i['data-src'], {"https://animefire.net/img/animes/": "", ".webp?v=1": ""}),
         "title": i["alt"],
         "image": i["src"]
     } for i in Soup(url).find_all("img", {"class": "imgAnimes"})]
