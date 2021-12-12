@@ -3,8 +3,7 @@
 def tops() -> list:
 
     r"""Featured Animes
-
-        Description: SID and Featured Anime Image
+        :Description # SID and Featured Anime Image
     """
 
     # Módulos
@@ -16,11 +15,10 @@ def tops() -> list:
 def search(title: str, page: int = 1) -> list:
     
     r"""Search for animes
-
-        Description: List of animes according to page and title.
-        Params:
-            title # Anime name
-            page # Page ( OPTIONAL ) 
+        :Description # List of animes according to page and title.
+        :Params
+            :title # Anime name
+            :page # Page ( OPTIONAL ) 
     """
 
     # Módulos
@@ -37,12 +35,11 @@ def search(title: str, page: int = 1) -> list:
 def filter(key: str, value: str, page: int = 1) -> list:
 
     r"""Filter animes
-
-        Description: List of animes according to page and title.
-        Params:
-            key: Valid key
-            value: Key value
-            page: Page ( OPTIONAL )
+        :Description # List of animes according to page and title.
+        :Params
+            :key # Valid key
+            :value # Key value
+            :page # Page ( OPTIONAL )
     """
 
     # Módulos
@@ -57,6 +54,12 @@ def filter(key: str, value: str, page: int = 1) -> list:
 # Anime
 def anime(SID: str):
     
+    r"""Anime object
+        :Description # Object with various information about the specific anime.
+        :Params
+            :SID # Unique anime ID
+    """
+
     # Módulos
     from .anime import Init
     from ._utils_ import Soup
