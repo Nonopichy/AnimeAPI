@@ -26,4 +26,4 @@ def Cards(url: str) -> list:
         "SID": multiReplaces(i['src'], {"https://animefire.net/img/animes/": "", ".webp?v=1": ""}),
         "title": i["alt"],
         "image": i["src"]
-    } for i in Soup(url).find_all("article", {"class": "imgAnimes"})]
+    } for i in Soup(url).find_all("img", {"class": "imgAnimes"})]
