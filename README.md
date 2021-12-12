@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://static.zerochan.net/Tanya.Degurechaff.full.2957403.png" width="456" height="456"></img>
-    <h1><strong>ANIME API</strong></h1>
+    <h1><strong>ANIME API <img src="https://pepy.tech/badge/animeapi"></img></strong></h1>
     <p><pre>Pesquise, filtre e obtenha informações sobre animes!</pre></p>
     <hr>
 </div>
@@ -9,7 +9,7 @@
     <pre>
         <h2 align="center">Informações</h2>
         <p align="center"> 
-            <br>Colete informacões e episódios de animes, utilizando este módulo Python.
+            <br>Colete informacões e episódios de animes e filmes, utilizando este módulo Python.
             <br>Utiliza-se <strong>Web Scraping</strong> em paginas de Animes, para favorecer informações.
             <br>Desenvolvido com intuito de aprendizado, não <strong>responsabilizo-me</strong> pelo seu uso!
         </p>
