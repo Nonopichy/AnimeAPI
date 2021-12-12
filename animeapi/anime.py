@@ -1,6 +1,6 @@
 
 # Módulos
-from ._objects_ import Anime
+from ._anime_ import Anime
 
 # Inicialização
 def Init(**args) -> Anime:
